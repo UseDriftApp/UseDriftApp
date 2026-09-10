@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/UseDriftApp.png?size=200" width="140" alt="Drift logo">
-
-# Drift
+<img src="./drift-wordmark-light.png" width="800" alt="Drift wordmark">
 
 **A personal discovery space for things worth remembering—and a way for them to find you again.**
 
@@ -10,7 +8,9 @@
 
 <br>
 
-[Visit Drift](https://usedriftapp.com)
+<a href="https://usedriftapp.com">
+  <img src="https://img.shields.io/badge/ENTER_DRIFT-%E2%86%92-C8B58A?style=flat-square&labelColor=0B0C0F" alt="Enter Drift">
+</a>
 
 </div>
 
